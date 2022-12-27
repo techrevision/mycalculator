@@ -1,4 +1,3 @@
-<! DOCTYPE html>
 <html lang="en">
 	<head>
 		<title>Stock Average Calculator</title>
@@ -69,19 +68,19 @@
 			<p>Total Investment</p>
 			<label>First Investment = </label> 	
 			<label class="text-success" id="first_investment"></label>
-			</br>
+			<br/>
 			<label>Second Investment = </label>
 			<label class="text-success" id="second_investment"></label>
-			</br>
+			<br/>
 			<label>Total Units = </label> 
 			<label class="text-success" id="total_units"></label>
-			</br>
+			<br/>
 			<label>Average Price = </label> 
 			<label class="text-success" id="average_price"></label>
-			</br>
+			<br/>
 			<label>Total Amount = </label> 
 			<label class="text-success" id="total_amount_invested"></label>
-			</br>
+			<br/>
 		</div>
 		
 		
